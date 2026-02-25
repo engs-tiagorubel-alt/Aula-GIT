@@ -1,4 +1,5 @@
 # Titulo Primário
+cls
 **Lista:**
 - Item 1;
 - Item 2;
